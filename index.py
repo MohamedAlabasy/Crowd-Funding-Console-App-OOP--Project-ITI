@@ -1,3 +1,4 @@
 import Authentication.Auth_Def as index
 
-index.main()
+start_point = index.Authentication_Class()
+start_point.main()
