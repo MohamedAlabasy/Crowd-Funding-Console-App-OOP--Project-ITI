@@ -1,4 +1,4 @@
-# Crowd-Funding-Console-App-Project-ITI
+# Crowd-Funding-Console-Python-OOP-Project-ITI
 
 ### to run this project on ubuntu
 
